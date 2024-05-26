@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="BiruLafyuu">#40BFFF</color>
+    <color name="ungu">#B77CF2</color>
+    <color name="oren">#F2C37C</color>
+    <color name="ungumuda">#9795FF</color>
+    <color name="ijo">#95FFA6</color>
+    <color name="pink">#F08CA4</color>
+
+</resources>
